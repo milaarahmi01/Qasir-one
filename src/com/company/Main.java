@@ -36,7 +36,7 @@ public class Main {
         objectDua.put("Angka Ketiga", scan.nextInt());
 
 
-        //Menjumlahkan nilai dari map Awan dan Bulan dengan memasangkan masing masing key nya
+        //Menjumlahkan nilai dari map Object Satu dan Object Dua dengan memasangkan masing masing key nya
         //Kemudian hasil penjumlahan dimasukkan ke map yg baru
         for(Map.Entry b: objectSatu.entrySet()){
             for(Map.Entry c: objectDua.entrySet()){
